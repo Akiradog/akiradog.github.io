@@ -4,6 +4,8 @@ title: Criando um mapa de disputas militarizadas nas Américas em Python
 readtime: true
 comments: true
 social-share: true
+gh-badge: [star, fork, follow]
+tags: [test]
 ---
 
 O nosso objetivo é construir, em Python, um mapa com a localização de disputas militarizadas nas Américas ocorridas entre  1816 e 2010. Os dados relativos as disputas militarizadas são do [Correlates of War (COW)](https://correlatesofwar.org/). Vamos usar, especificamente, o banco de dados [Militarized Interstate Dispute Locations (MIDLOC)](https://correlatesofwar.org/data-sets/MIDLOC) que contém as coordenadas geográficas de cada disputa militarizada catalogada pelo projeto. O arquivo que vamos usar está em CSV e se chama `MIDLOCA_2.1`. 
